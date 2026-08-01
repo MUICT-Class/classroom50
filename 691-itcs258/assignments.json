@@ -11,6 +11,13 @@
         "owner": "MUICT-Class",
         "repo": "itcs258-lab-typescript-basic",
         "branch": "main"
+      },
+      "due": "2026-08-14T16:55:00Z",
+      "due_meta": {
+        "input": "2026-08-14T23:55:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
       }
     }
   ]
