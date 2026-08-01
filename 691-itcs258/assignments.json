@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "691-itcs258-l01",
+      "name": "691-itcs258-l01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-typescript-basic",
+        "branch": "main"
+      }
+    }
+  ]
 }
