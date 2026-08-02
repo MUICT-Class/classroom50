@@ -1,4 +1,31 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "691-lab01",
+      "name": "691-lab01",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-html-resume",
+        "branch": "main"
+      },
+      "due": "2026-08-13T05:55:00Z",
+      "due_meta": {
+        "input": "2026-08-13T12:55:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-03T04:00:00Z",
+      "available_from_meta": {
+        "input": "2026-08-03T11:00:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
+    }
+  ]
 }
