@@ -3,7 +3,7 @@
   "assignments": [
     {
       "slug": "691-lab01",
-      "name": "691-lab01",
+      "name": "691-itds242-lab01",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
