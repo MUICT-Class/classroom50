@@ -54,32 +54,6 @@
       }
     },
     {
-      "slug": "691-itcs258-lab03",
-      "name": "691-itcs258-lab03",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "MUICT-Class",
-        "repo": "itcs258-lab-nest-api",
-        "branch": "main"
-      },
-      "due": "2026-08-28T16:59:00Z",
-      "due_meta": {
-        "input": "2026-08-28T23:59:00",
-        "zone": "Asia/Bangkok",
-        "offset": "+07:00",
-        "source": "auto-detected"
-      },
-      "available_from": "2026-08-21T02:30:00Z",
-      "available_from_meta": {
-        "input": "2026-08-21T09:30:00",
-        "zone": "Asia/Bangkok",
-        "offset": "+07:00",
-        "source": "auto-detected"
-      }
-    },
-    {
       "slug": "691-itcs258-l04",
       "name": "691-itcs258-l04",
       "mode": "individual",
@@ -100,6 +74,32 @@
       "available_from": "2026-08-28T02:30:00Z",
       "available_from_meta": {
         "input": "2026-08-28T09:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
+    },
+    {
+      "slug": "691-itcs258-lab03",
+      "name": "691-itcs258-l03",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-nest-api",
+        "branch": "main"
+      },
+      "due": "2026-08-28T16:59:00Z",
+      "due_meta": {
+        "input": "2026-08-28T23:59:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-21T02:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-21T09:30:00",
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
