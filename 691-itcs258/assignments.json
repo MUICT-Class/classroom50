@@ -26,6 +26,32 @@
         "offset": "+07:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "691-itcs258-l02",
+      "name": "691-itcs258-l02",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-typescript-server",
+        "branch": "main"
+      },
+      "due": "2026-08-21T16:59:00Z",
+      "due_meta": {
+        "input": "2026-08-21T23:59:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-08-14T02:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-14T09:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
     }
   ]
 }
