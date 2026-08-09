@@ -2,32 +2,6 @@
   "schema": "classroom50/assignments/v1",
   "assignments": [
     {
-      "slug": "691-itcs258-l05",
-      "name": "691-itcs258-l05",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "MUICT-Class",
-        "repo": "itcs258-lab-nest-val-err-log",
-        "branch": "main"
-      },
-      "due": "2026-09-11T16:59:00Z",
-      "due_meta": {
-        "input": "2026-09-11T23:59:00",
-        "zone": "Asia/Bangkok",
-        "offset": "+07:00",
-        "source": "auto-detected"
-      },
-      "available_from": "2026-09-04T02:30:00Z",
-      "available_from_meta": {
-        "input": "2026-09-04T09:30:00",
-        "zone": "Asia/Bangkok",
-        "offset": "+07:00",
-        "source": "auto-detected"
-      }
-    },
-    {
       "slug": "691-itcs258-l01",
       "name": "691-itcs258-l01",
       "mode": "individual",
@@ -98,6 +72,25 @@
       "available_from": "2026-08-28T02:30:00Z",
       "available_from_meta": {
         "input": "2026-08-28T09:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
+    },
+    {
+      "slug": "691-itcs258-l05",
+      "name": "691-itcs258-l05",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-nest-val-err-log",
+        "branch": "main"
+      },
+      "available_from": "2026-09-04T02:30:00Z",
+      "available_from_meta": {
+        "input": "2026-09-04T09:30:00",
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
