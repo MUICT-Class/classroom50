@@ -33,6 +33,21 @@
         "offset": "+07:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "691-itds242-lab03",
+      "name": "691-itds242-lab03",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "available_from": "2026-08-17T04:00:00Z",
+      "available_from_meta": {
+        "input": "2026-08-17T11:00:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
     }
   ]
 }
