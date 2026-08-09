@@ -51,7 +51,7 @@
     },
     {
       "slug": "691-1-itds242-lab04",
-      "name": "691-1-itds242-lab04",
+      "name": "691-itds242-lab04",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": false,
