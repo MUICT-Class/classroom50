@@ -68,6 +68,13 @@
         "owner": "MUICT-Class",
         "repo": "itds242-lab-css-resume-contact",
         "branch": "main"
+      },
+      "available_from": "2026-08-17T03:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-17T10:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
       }
     }
   ]
