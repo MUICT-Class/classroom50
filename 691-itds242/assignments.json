@@ -57,6 +57,18 @@
         "offset": "+07:00",
         "source": "auto-detected"
       }
+    },
+    {
+      "slug": "691-itds242-lab03",
+      "name": "691-itds242-lab03",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-css-resume-contact",
+        "branch": "main"
+      }
     }
   ]
 }
