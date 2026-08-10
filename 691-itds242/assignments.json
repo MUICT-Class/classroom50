@@ -21,20 +21,6 @@
       }
     },
     {
-      "slug": "691-itds242-lab02",
-      "name": "691-itds242-lab02",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "available_from": "2026-08-10T03:30:00Z",
-      "available_from_meta": {
-        "input": "2026-08-10T10:30:00",
-        "zone": "Asia/Bangkok",
-        "offset": "+07:00",
-        "source": "auto-detected"
-      }
-    },
-    {
       "slug": "691-itds242-lab03",
       "name": "691-itds242-lab03",
       "mode": "individual",
@@ -78,6 +64,25 @@
       "available_from": "2026-08-24T03:30:00Z",
       "available_from_meta": {
         "input": "2026-08-24T10:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      }
+    },
+    {
+      "slug": "691-itds242-lab02",
+      "name": "691-itds242-lab02",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-html-resume-contact",
+        "branch": "main"
+      },
+      "available_from": "2026-08-10T03:30:00Z",
+      "available_from_meta": {
+        "input": "2026-08-10T10:30:00",
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
