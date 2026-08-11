@@ -1,4 +1,34 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "691-itcs258-l01": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "Thanathip085",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itcs258",
+              "assignment_type": "individual",
+              "owner": "thanathip085",
+              "submission": "submit/2026-08-10T13-10-01Z-2560402",
+              "commit": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-thanathip085/commit/2560402f74f55c93e58c3745b4a6090d1643ba63",
+              "release": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-thanathip085/releases/tag/submit%2F2026-08-10T13-10-01Z-2560402",
+              "review": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-thanathip085/compare/d3bcf94555c54485f35e31e027537d319b0c920c...2560402f74f55c93e58c3745b4a6090d1643ba63",
+              "datetime": "2026-08-10T13:09:39Z",
+              "graded_at": "2026-08-10T13:10:23Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Thanathip085",
+                "id": 177724912
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
