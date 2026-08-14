@@ -18,6 +18,10 @@
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -37,6 +41,10 @@
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -56,6 +64,10 @@
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -75,6 +87,10 @@
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     },
     {
@@ -94,6 +110,10 @@
         "zone": "Asia/Bangkok",
         "offset": "+07:00",
         "source": "auto-detected"
+      },
+      "submission_mode": "tag",
+      "grading": {
+        "mode": "auto"
       }
     }
   ]
