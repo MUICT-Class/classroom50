@@ -27,8 +27,125 @@
               }
             }
           ]
+        },
+        {
+          "owner": "witthayut",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itcs258",
+              "assignment_type": "individual",
+              "owner": "witthayut",
+              "submission": "submit/2026-08-13T07-22-08Z-436bde9",
+              "commit": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-witthayut/commit/436bde9c791fd82201b6be9b68207cee436a0664",
+              "release": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-witthayut/releases/tag/submit%2F2026-08-13T07-22-08Z-436bde9",
+              "review": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-witthayut/compare/4570a9b634487ec8a589d32bc42f942af2832024...436bde9c791fd82201b6be9b68207cee436a0664",
+              "datetime": "2026-08-13T07:21:53Z",
+              "graded_at": "2026-08-13T07:22:25Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "witthayut",
+                "id": 101866783
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Getto55",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itcs258",
+              "assignment_type": "individual",
+              "owner": "getto55",
+              "submission": "submit/2026-08-13T16-54-06Z-5ec1539",
+              "commit": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-getto55/commit/5ec1539239ca8b08ce52f68ea27f324fe771bd1c",
+              "release": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-getto55/releases/tag/submit%2F2026-08-13T16-54-06Z-5ec1539",
+              "review": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-getto55/compare/a08d73ccfff4f82d2d92e54fd94410950c3d3cac...5ec1539239ca8b08ce52f68ea27f324fe771bd1c",
+              "datetime": "2026-08-13T16:53:52Z",
+              "graded_at": "2026-08-13T16:54:19Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Getto55",
+                "id": 177738637
+              }
+            }
+          ]
+        },
+        {
+          "owner": "SawSay-99",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itcs258",
+              "assignment_type": "individual",
+              "owner": "sawsay-99",
+              "submission": "submit/2026-08-12T10-07-32Z-87ae745",
+              "commit": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-sawsay-99/commit/87ae745414d286fa26b17cc90e4dc3e3b6acb032",
+              "release": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-sawsay-99/releases/tag/submit%2F2026-08-12T10-07-32Z-87ae745",
+              "review": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-sawsay-99/compare/b3ee8711f4e17bffb9aef0344e97c2104e5c4acf...87ae745414d286fa26b17cc90e4dc3e3b6acb032",
+              "datetime": "2026-08-12T10:07:17Z",
+              "graded_at": "2026-08-12T10:07:44Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "SawSay-99",
+                "id": 177758045
+              }
+            }
+          ]
+        },
+        {
+          "owner": "onwarawong",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itcs258",
+              "assignment_type": "individual",
+              "owner": "onwarawong",
+              "submission": "submit/2026-08-12T15-44-22Z-d43adef",
+              "commit": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-onwarawong/commit/d43adef5b29c04b9b87ac96d304d854ff59a5089",
+              "release": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-onwarawong/releases/tag/submit%2F2026-08-12T15-44-22Z-d43adef",
+              "review": "https://github.com/MUICT-Class/691-itcs258-691-itcs258-l01-onwarawong/compare/781ce067d420c23fa10b72521f3766298157124e...d43adef5b29c04b9b87ac96d304d854ff59a5089",
+              "datetime": "2026-08-12T15:44:03Z",
+              "graded_at": "2026-08-12T15:44:44Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "onwarawong",
+                "id": 253410276
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "collected_at": "2026-08-14T05:02:29Z"
+    },
+    "691-itcs258-l02": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:02:29Z"
+    },
+    "691-itcs258-lab03": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:02:29Z"
+    },
+    "691-itcs258-l04": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:02:29Z"
+    },
+    "691-itcs258-l05": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:02:29Z"
     }
   }
 }

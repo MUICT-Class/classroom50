@@ -162,8 +162,96 @@
               }
             }
           ]
+        },
+        {
+          "owner": "kungnawanghin",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kungnawanghin",
+              "submission": "submit/2026-08-13T10-14-11Z-f9dd62e",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/commit/f9dd62ed721c5352745fcb65d2f63dd954b77368",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/releases/tag/submit%2F2026-08-13T10-14-11Z-f9dd62e",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/compare/ff363a02b4d7c3b5916dc35c0e3ff55353ec1126...f9dd62ed721c5352745fcb65d2f63dd954b77368",
+              "datetime": "2026-08-13T10:13:29Z",
+              "graded_at": "2026-08-13T10:14:22Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kungnawanghin",
+                "id": 172051095
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kungnawanghin",
+              "submission": "submit/2026-08-13T10-13-19Z-ea22103",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/commit/ea22103fdce148d5bfb63aba0fe4af57c0ca623c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/releases/tag/submit%2F2026-08-13T10-13-19Z-ea22103",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/compare/ff363a02b4d7c3b5916dc35c0e3ff55353ec1126...ea22103fdce148d5bfb63aba0fe4af57c0ca623c",
+              "datetime": "2026-08-13T10:13:03Z",
+              "graded_at": "2026-08-13T10:13:33Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kungnawanghin",
+                "id": 172051095
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kungnawanghin",
+              "submission": "submit/2026-08-13T10-12-49Z-4b41b59",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/commit/4b41b59904b6b4e9402bb6a81cd3e0d18e0258e3",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/releases/tag/submit%2F2026-08-13T10-12-49Z-4b41b59",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-lab01-kungnawanghin/compare/ff363a02b4d7c3b5916dc35c0e3ff55353ec1126...4b41b59904b6b4e9402bb6a81cd3e0d18e0258e3",
+              "datetime": "2026-08-13T10:12:35Z",
+              "graded_at": "2026-08-13T10:13:00Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kungnawanghin",
+                "id": 172051095
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Nachapol1311",
+          "first_name": "Nachapol",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T07-20-38Z-8cd4e94",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-lab01-nachapol1311/commit/8cd4e94c139fb60c497e8c78f3cd9f863681d4e1",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-lab01-nachapol1311/releases/tag/submit%2F2026-08-13T07-20-38Z-8cd4e94",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-lab01-nachapol1311/compare/b360933306ad7c4e77e100e6a1696d20cea4ea23...8cd4e94c139fb60c497e8c78f3cd9f863681d4e1",
+              "datetime": "2026-08-13T07:20:20Z",
+              "graded_at": "2026-08-13T07:20:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "collected_at": "2026-08-14T05:10:14Z"
     },
     "691-itds242-lab02": {
       "type": "individual",
@@ -2044,8 +2132,2505 @@
               }
             }
           ]
+        },
+        {
+          "owner": "AnanPut",
+          "first_name": "Anan",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "ananput",
+              "submission": "submit/2026-08-13T09-31-51Z-0110c27",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/commit/0110c27c800ca380fdfa17b275cce13ecbcd38f8",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/releases/tag/submit%2F2026-08-13T09-31-51Z-0110c27",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/compare/2b2790c2667731b4e790356eaf325ddbe55c112c...0110c27c800ca380fdfa17b275cce13ecbcd38f8",
+              "datetime": "2026-08-13T09:31:39Z",
+              "graded_at": "2026-08-13T09:32:06Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AnanPut",
+                "id": 50690653
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "ananput",
+              "submission": "submit/2026-08-13T09-30-50Z-82f97ff",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/commit/82f97ff227482fb7941ccdb530b5be31fc48951b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/releases/tag/submit%2F2026-08-13T09-30-50Z-82f97ff",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ananput/compare/2b2790c2667731b4e790356eaf325ddbe55c112c...82f97ff227482fb7941ccdb530b5be31fc48951b",
+              "datetime": "2026-08-13T09:30:30Z",
+              "graded_at": "2026-08-13T09:31:05Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AnanPut",
+                "id": 50690653
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Kong2549",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kong2549",
+              "submission": "submit/2026-08-13T10-19-38Z-4d1b3fb",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/commit/4d1b3fbadd9b05e4314c855af19a32c5652a8347",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/releases/tag/submit%2F2026-08-13T10-19-38Z-4d1b3fb",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/compare/678815d3126f76d4adf33692765438ee02c90a8d...4d1b3fbadd9b05e4314c855af19a32c5652a8347",
+              "datetime": "2026-08-13T10:19:28Z",
+              "graded_at": "2026-08-13T10:19:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Kong2549",
+                "id": 59252104
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kong2549",
+              "submission": "submit/2026-08-13T10-18-04Z-419181a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/commit/419181a8471df22652597135e28e0c56dc97623d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/releases/tag/submit%2F2026-08-13T10-18-04Z-419181a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kong2549/compare/678815d3126f76d4adf33692765438ee02c90a8d...419181a8471df22652597135e28e0c56dc97623d",
+              "datetime": "2026-08-13T10:17:51Z",
+              "graded_at": "2026-08-13T10:18:16Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Kong2549",
+                "id": 59252104
+              }
+            }
+          ]
+        },
+        {
+          "owner": "ppmait",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "ppmait",
+              "submission": "submit/2026-08-13T10-09-06Z-1bb1a62",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/commit/1bb1a6284e2d5c883c801d9ef42cdf2edd4e31c4",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/releases/tag/submit%2F2026-08-13T10-09-06Z-1bb1a62",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/compare/493cda78f31fb209751c45b875729b24a81379ff...1bb1a6284e2d5c883c801d9ef42cdf2edd4e31c4",
+              "datetime": "2026-08-13T10:08:25Z",
+              "graded_at": "2026-08-13T10:09:27Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "ppmait",
+                "id": 72079438
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "ppmait",
+              "submission": "submit/2026-08-13T10-08-08Z-f009d03",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/commit/f009d0329476ac03709e1e8a1fea2061243640b5",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/releases/tag/submit%2F2026-08-13T10-08-08Z-f009d03",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-ppmait/compare/493cda78f31fb209751c45b875729b24a81379ff...f009d0329476ac03709e1e8a1fea2061243640b5",
+              "datetime": "2026-08-13T10:07:56Z",
+              "graded_at": "2026-08-13T10:08:31Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "ppmait",
+                "id": 72079438
+              }
+            }
+          ]
+        },
+        {
+          "owner": "mcakecustu22",
+          "first_name": "tscutsu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "mcakecustu22",
+              "submission": "submit/2026-08-13T09-25-21Z-0c4dcff",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mcakecustu22/commit/0c4dcff487aa1fdd609eaa47a8ccacd1721cac0c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mcakecustu22/releases/tag/submit%2F2026-08-13T09-25-21Z-0c4dcff",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mcakecustu22/compare/7d74130c0e5fbded89f91cef69993b919eada631...0c4dcff487aa1fdd609eaa47a8ccacd1721cac0c",
+              "datetime": "2026-08-13T09:24:58Z",
+              "graded_at": "2026-08-13T09:25:35Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "mcakecustu22",
+                "id": 103847762
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Kasn-w",
+          "first_name": "Kasn",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kasn-w",
+              "submission": "submit/2026-08-13T09-57-38Z-3c26ae8",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kasn-w/commit/3c26ae814d875b82ed73a2db267c21f0d766f9ca",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kasn-w/releases/tag/submit%2F2026-08-13T09-57-38Z-3c26ae8",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kasn-w/compare/c0afcc85323a2b5a24a843a1ecf3749157c28245...3c26ae814d875b82ed73a2db267c21f0d766f9ca",
+              "datetime": "2026-08-13T09:50:13Z",
+              "graded_at": "2026-08-13T09:57:50Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Kasn-w",
+                "id": 106369572
+              }
+            }
+          ]
+        },
+        {
+          "owner": "PeerapeeK",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "peerapeek",
+              "submission": "submit/2026-08-13T09-49-54Z-0146679",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-peerapeek/commit/0146679c5f48fe661d34b7368a897a189b8a704f",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-peerapeek/releases/tag/submit%2F2026-08-13T09-49-54Z-0146679",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-peerapeek/compare/68ec292588f4881a72ef5807da70b5dc5f3055be...0146679c5f48fe661d34b7368a897a189b8a704f",
+              "datetime": "2026-08-13T09:49:34Z",
+              "graded_at": "2026-08-13T09:50:07Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PeerapeeK",
+                "id": 120787728
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Yourhomenow",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "yourhomenow",
+              "submission": "submit/2026-08-13T09-09-20Z-24d7d54",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yourhomenow/commit/24d7d549991ee80110d324cf7b6456b55edeb329",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yourhomenow/releases/tag/submit%2F2026-08-13T09-09-20Z-24d7d54",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yourhomenow/compare/25ad4109bb2e4afc872aedbf21b1f91aaca39638...24d7d549991ee80110d324cf7b6456b55edeb329",
+              "datetime": "2026-08-13T09:08:52Z",
+              "graded_at": "2026-08-13T09:09:37Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Yourhomenow",
+                "id": 123375532
+              }
+            }
+          ]
+        },
+        {
+          "owner": "PutterZORDOR",
+          "first_name": "putter",
+          "last_name": "ZorDor",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "putterzordor",
+              "submission": "submit/2026-08-13T09-39-55Z-399ade2",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/commit/399ade2dba865773ccc9a3c964003d895fc6ec5b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/releases/tag/submit%2F2026-08-13T09-39-55Z-399ade2",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/compare/62b7323e40d9b386bc32149fdbf080d525ab426d...399ade2dba865773ccc9a3c964003d895fc6ec5b",
+              "datetime": "2026-08-13T09:39:24Z",
+              "graded_at": "2026-08-13T09:40:05Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PutterZORDOR",
+                "id": 132139589
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "putterzordor",
+              "submission": "submit/2026-08-13T09-39-13Z-1366377",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/commit/1366377770a3b19ee03bc2df079bb6607dd9ff2e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/releases/tag/submit%2F2026-08-13T09-39-13Z-1366377",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-putterzordor/compare/62b7323e40d9b386bc32149fdbf080d525ab426d...1366377770a3b19ee03bc2df079bb6607dd9ff2e",
+              "datetime": "2026-08-13T09:39:00Z",
+              "graded_at": "2026-08-13T09:39:26Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PutterZORDOR",
+                "id": 132139589
+              }
+            }
+          ]
+        },
+        {
+          "owner": "marchtanu",
+          "first_name": "MarchTanu",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "marchtanu",
+              "submission": "submit/2026-08-13T07-42-34Z-96323b1",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/commit/96323b1c3012dbb755d6e28fa6c45b2ad9e23ae8",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/releases/tag/submit%2F2026-08-13T07-42-34Z-96323b1",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/compare/1f7bd3b10fe2f8265bbeb2659f62589e61713b4c...96323b1c3012dbb755d6e28fa6c45b2ad9e23ae8",
+              "datetime": "2026-08-13T07:42:15Z",
+              "graded_at": "2026-08-13T07:42:52Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "marchtanu",
+                "id": 132737284
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "marchtanu",
+              "submission": "submit/2026-08-13T07-35-32Z-edd2ed4",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/commit/edd2ed4cce55f94a1f8b9483ee560a252835101e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/releases/tag/submit%2F2026-08-13T07-35-32Z-edd2ed4",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-marchtanu/compare/1f7bd3b10fe2f8265bbeb2659f62589e61713b4c...edd2ed4cce55f94a1f8b9483ee560a252835101e",
+              "datetime": "2026-08-13T07:35:08Z",
+              "graded_at": "2026-08-13T07:35:46Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "marchtanu",
+                "id": 132737284
+              }
+            }
+          ]
+        },
+        {
+          "owner": "cynmark",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "cynmark",
+              "submission": "submit/2026-08-13T09-33-22Z-b93971f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/commit/b93971fdf661950201da985e6e289503e6012e13",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/releases/tag/submit%2F2026-08-13T09-33-22Z-b93971f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/compare/9b0f326601b923f5792158be4ba16729b78bb5f6...b93971fdf661950201da985e6e289503e6012e13",
+              "datetime": "2026-08-13T09:32:48Z",
+              "graded_at": "2026-08-13T09:33:35Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "cynmark",
+                "id": 141565422
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "cynmark",
+              "submission": "submit/2026-08-13T09-32-41Z-966f783",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/commit/966f783c493c7f2eab9f0181bc32f0e6eea97d01",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/releases/tag/submit%2F2026-08-13T09-32-41Z-966f783",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-cynmark/compare/9b0f326601b923f5792158be4ba16729b78bb5f6...966f783c493c7f2eab9f0181bc32f0e6eea97d01",
+              "datetime": "2026-08-13T09:32:29Z",
+              "graded_at": "2026-08-13T09:32:59Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "cynmark",
+                "id": 141565422
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Nannaphat6887032",
+          "first_name": "6887032-Nannaphat",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nannaphat6887032",
+              "submission": "submit/2026-08-13T10-05-31Z-dceb9b5",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/commit/dceb9b501551cd3a372fd2737458e4e40151584e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/releases/tag/submit%2F2026-08-13T10-05-31Z-dceb9b5",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/compare/c883b498260e8f4488bc70d4b40baa895d0babe3...dceb9b501551cd3a372fd2737458e4e40151584e",
+              "datetime": "2026-08-13T10:04:43Z",
+              "graded_at": "2026-08-13T10:05:41Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nannaphat6887032",
+                "id": 161781869
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nannaphat6887032",
+              "submission": "submit/2026-08-13T10-04-44Z-224eb05",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/commit/224eb052d02b122ff26af980346fb86006aaa6fa",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/releases/tag/submit%2F2026-08-13T10-04-44Z-224eb05",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/compare/c883b498260e8f4488bc70d4b40baa895d0babe3...224eb052d02b122ff26af980346fb86006aaa6fa",
+              "datetime": "2026-08-13T10:04:30Z",
+              "graded_at": "2026-08-13T10:04:57Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nannaphat6887032",
+                "id": 161781869
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nannaphat6887032",
+              "submission": "submit/2026-08-13T10-04-06Z-aa8fb0a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/commit/aa8fb0a84951793b15af59d39e405653a03beb49",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/releases/tag/submit%2F2026-08-13T10-04-06Z-aa8fb0a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nannaphat6887032/compare/c883b498260e8f4488bc70d4b40baa895d0babe3...aa8fb0a84951793b15af59d39e405653a03beb49",
+              "datetime": "2026-08-13T10:03:51Z",
+              "graded_at": "2026-08-13T10:04:16Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nannaphat6887032",
+                "id": 161781869
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Pimpawee007",
+          "first_name": "m31y0k",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pimpawee007",
+              "submission": "submit/2026-08-13T10-13-52Z-9cbd918",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/commit/9cbd91810b34293947a7ef0477509fe7b273189f",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/releases/tag/submit%2F2026-08-13T10-13-52Z-9cbd918",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/compare/abad16eb96a8465cacebb63c161a801ac3d7b5ff...9cbd91810b34293947a7ef0477509fe7b273189f",
+              "datetime": "2026-08-13T10:13:40Z",
+              "graded_at": "2026-08-13T10:14:08Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Pimpawee007",
+                "id": 163415978
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pimpawee007",
+              "submission": "submit/2026-08-13T09-50-24Z-8d32c55",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/commit/8d32c55c3a7d0d0457c0d4a80d196f7e5436b5a3",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/releases/tag/submit%2F2026-08-13T09-50-24Z-8d32c55",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/compare/abad16eb96a8465cacebb63c161a801ac3d7b5ff...8d32c55c3a7d0d0457c0d4a80d196f7e5436b5a3",
+              "datetime": "2026-08-13T09:49:49Z",
+              "graded_at": "2026-08-13T09:50:47Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Pimpawee007",
+                "id": 163415978
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pimpawee007",
+              "submission": "submit/2026-08-13T09-49-47Z-6581252",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/commit/65812523e2c7ce66930449a460b90afd23bdc2d2",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/releases/tag/submit%2F2026-08-13T09-49-47Z-6581252",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimpawee007/compare/abad16eb96a8465cacebb63c161a801ac3d7b5ff...65812523e2c7ce66930449a460b90afd23bdc2d2",
+              "datetime": "2026-08-13T09:49:34Z",
+              "graded_at": "2026-08-13T09:50:02Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Pimpawee007",
+                "id": 163415978
+              }
+            }
+          ]
+        },
+        {
+          "owner": "warittawat",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "warittawat",
+              "submission": "submit/2026-08-13T09-20-53Z-91aadc7",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/commit/91aadc78e66ede286a35c7fa4bdfb1720f341694",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/releases/tag/submit%2F2026-08-13T09-20-53Z-91aadc7",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/compare/2f23de356704ae43330c5e3ce2100c9887cf73d1...91aadc78e66ede286a35c7fa4bdfb1720f341694",
+              "datetime": "2026-08-13T09:20:41Z",
+              "graded_at": "2026-08-13T09:21:03Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "warittawat",
+                "id": 164858848
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "warittawat",
+              "submission": "submit/2026-08-13T09-20-20Z-c98afee",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/commit/c98afeed8ea956173fb95771a98a8a625fed1662",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/releases/tag/submit%2F2026-08-13T09-20-20Z-c98afee",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/compare/2f23de356704ae43330c5e3ce2100c9887cf73d1...c98afeed8ea956173fb95771a98a8a625fed1662",
+              "datetime": "2026-08-13T09:20:07Z",
+              "graded_at": "2026-08-13T09:20:29Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "warittawat",
+                "id": 164858848
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "warittawat",
+              "submission": "submit/2026-08-12T14-50-42Z-986b31c",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/commit/986b31c994c9de669cb5293f619e9ca8a0d94052",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/releases/tag/submit%2F2026-08-12T14-50-42Z-986b31c",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/compare/2f23de356704ae43330c5e3ce2100c9887cf73d1...986b31c994c9de669cb5293f619e9ca8a0d94052",
+              "datetime": "2026-08-12T14:50:18Z",
+              "graded_at": "2026-08-12T14:50:52Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "warittawat",
+                "id": 164858848
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "warittawat",
+              "submission": "submit/2026-08-12T14-50-08Z-19edcd8",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/commit/19edcd87f582bed32cc1a2dec13edf23d9fb4c5b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/releases/tag/submit%2F2026-08-12T14-50-08Z-19edcd8",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/compare/2f23de356704ae43330c5e3ce2100c9887cf73d1...19edcd87f582bed32cc1a2dec13edf23d9fb4c5b",
+              "datetime": "2026-08-12T14:49:53Z",
+              "graded_at": "2026-08-12T14:50:20Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "warittawat",
+                "id": 164858848
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "warittawat",
+              "submission": "submit/2026-08-12T14-44-50Z-ac044d1",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/commit/ac044d18a6cd5390ef9fed57e6dec7d7ccf5999c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/releases/tag/submit%2F2026-08-12T14-44-50Z-ac044d1",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-warittawat/compare/2f23de356704ae43330c5e3ce2100c9887cf73d1...ac044d18a6cd5390ef9fed57e6dec7d7ccf5999c",
+              "datetime": "2026-08-12T14:44:35Z",
+              "graded_at": "2026-08-12T14:45:04Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "warittawat",
+                "id": 164858848
+              }
+            }
+          ]
+        },
+        {
+          "owner": "kungnawanghin",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kungnawanghin",
+              "submission": "submit/2026-08-13T10-15-20Z-ec54b73",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kungnawanghin/commit/ec54b732140043cc5cffb9bb28390cb5a18c330c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kungnawanghin/releases/tag/submit%2F2026-08-13T10-15-20Z-ec54b73",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kungnawanghin/compare/9642ad7d22a5fd237e8a59373db97838624acc1e...ec54b732140043cc5cffb9bb28390cb5a18c330c",
+              "datetime": "2026-08-13T10:15:07Z",
+              "graded_at": "2026-08-13T10:15:31Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kungnawanghin",
+                "id": 172051095
+              }
+            }
+          ]
+        },
+        {
+          "owner": "mosssara",
+          "first_name": "F0x",
+          "email": "mokky1086@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "mosssara",
+              "submission": "submit/2026-08-13T09-59-45Z-9e6710a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/commit/9e6710a10332eefe5adf1994af5bcbb4c65ab528",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/releases/tag/submit%2F2026-08-13T09-59-45Z-9e6710a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/compare/66e851de2300cd50d6c4f75297c24c014058c208...9e6710a10332eefe5adf1994af5bcbb4c65ab528",
+              "datetime": "2026-08-13T09:59:17Z",
+              "graded_at": "2026-08-13T09:59:57Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "mosssara",
+                "id": 172829219
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "mosssara",
+              "submission": "submit/2026-08-13T09-59-12Z-4952c7f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/commit/4952c7fe0c7d77de1f3d730742d2e243d09c7a36",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/releases/tag/submit%2F2026-08-13T09-59-12Z-4952c7f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mosssara/compare/66e851de2300cd50d6c4f75297c24c014058c208...4952c7fe0c7d77de1f3d730742d2e243d09c7a36",
+              "datetime": "2026-08-13T09:58:58Z",
+              "graded_at": "2026-08-13T09:59:24Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "mosssara",
+                "id": 172829219
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Raveeroj",
+          "first_name": "Raveeroj",
+          "email": "raveeroj2007@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "raveeroj",
+              "submission": "submit/2026-08-13T10-15-11Z-b6d29ad",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/commit/b6d29adc328b79ca1a1644c04184c68fe2b61e12",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/releases/tag/submit%2F2026-08-13T10-15-11Z-b6d29ad",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/compare/b0aa5b00ccb03d5e3458eec97f2ad1d4da813f87...b6d29adc328b79ca1a1644c04184c68fe2b61e12",
+              "datetime": "2026-08-13T10:14:52Z",
+              "graded_at": "2026-08-13T10:15:24Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Raveeroj",
+                "id": 174474643
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "raveeroj",
+              "submission": "submit/2026-08-13T10-14-33Z-94f86da",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/commit/94f86daf2347713249425c7c4d9da597ade5cebd",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/releases/tag/submit%2F2026-08-13T10-14-33Z-94f86da",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/compare/b0aa5b00ccb03d5e3458eec97f2ad1d4da813f87...94f86daf2347713249425c7c4d9da597ade5cebd",
+              "datetime": "2026-08-13T10:14:18Z",
+              "graded_at": "2026-08-13T10:14:45Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Raveeroj",
+                "id": 174474643
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "raveeroj",
+              "submission": "submit/2026-08-13T10-02-41Z-88d4ba2",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/commit/88d4ba24e36c19ed52564aaae458d8c718f33cc2",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/releases/tag/submit%2F2026-08-13T10-02-41Z-88d4ba2",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-raveeroj/compare/b0aa5b00ccb03d5e3458eec97f2ad1d4da813f87...88d4ba24e36c19ed52564aaae458d8c718f33cc2",
+              "datetime": "2026-08-13T10:02:26Z",
+              "graded_at": "2026-08-13T10:02:52Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Raveeroj",
+                "id": 174474643
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Nantapat-phu",
+          "first_name": "Nantapat",
+          "last_name": "Phudanngua",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nantapat-phu",
+              "submission": "submit/2026-08-13T09-21-05Z-e25c678",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/commit/e25c6784484fa14664aad03958e69d4ddfc90f19",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/releases/tag/submit%2F2026-08-13T09-21-05Z-e25c678",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/compare/e6cd68734e6facfb98019ee80ef7a67fb1bec82d...e25c6784484fa14664aad03958e69d4ddfc90f19",
+              "datetime": "2026-08-13T09:20:25Z",
+              "graded_at": "2026-08-13T09:21:25Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nantapat-phu",
+                "id": 175210320
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nantapat-phu",
+              "submission": "submit/2026-08-13T09-20-14Z-7377370",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/commit/73773700f698a11c9c24cd0e79f30fb4f96fe88e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/releases/tag/submit%2F2026-08-13T09-20-14Z-7377370",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nantapat-phu/compare/e6cd68734e6facfb98019ee80ef7a67fb1bec82d...73773700f698a11c9c24cd0e79f30fb4f96fe88e",
+              "datetime": "2026-08-13T09:20:01Z",
+              "graded_at": "2026-08-13T09:20:31Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nantapat-phu",
+                "id": 175210320
+              }
+            }
+          ]
+        },
+        {
+          "owner": "bestzip5",
+          "first_name": "Chirattikorn",
+          "last_name": "Sukkhachat",
+          "email": "chirattikorn49@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bestzip5",
+              "submission": "submit/2026-08-13T10-24-58Z-40df927",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/commit/40df9273c9e2637bd7c134c48aafbd7424c98ad9",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/releases/tag/submit%2F2026-08-13T10-24-58Z-40df927",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/compare/9cd875a3385d1721496ce3db59ca06fcf8fed3c9...40df9273c9e2637bd7c134c48aafbd7424c98ad9",
+              "datetime": "2026-08-13T10:24:45Z",
+              "graded_at": "2026-08-13T10:25:10Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bestzip5",
+                "id": 180824387
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bestzip5",
+              "submission": "submit/2026-08-13T10-23-04Z-ad99240",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/commit/ad99240e55e05671687d104f881de0028f56af86",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/releases/tag/submit%2F2026-08-13T10-23-04Z-ad99240",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bestzip5/compare/9cd875a3385d1721496ce3db59ca06fcf8fed3c9...ad99240e55e05671687d104f881de0028f56af86",
+              "datetime": "2026-08-13T10:22:51Z",
+              "graded_at": "2026-08-13T10:23:14Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bestzip5",
+                "id": 180824387
+              }
+            }
+          ]
+        },
+        {
+          "owner": "n0naphat",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "n0naphat",
+              "submission": "submit/2026-08-13T09-18-46Z-7b53442",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/commit/7b534428a7f84b7278bb2c72cdd8eaebb714c83a",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/releases/tag/submit%2F2026-08-13T09-18-46Z-7b53442",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/compare/2935e76b64d6a601c492ea4da51ade7dfc52b79a...7b534428a7f84b7278bb2c72cdd8eaebb714c83a",
+              "datetime": "2026-08-13T09:18:25Z",
+              "graded_at": "2026-08-13T09:18:57Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "n0naphat",
+                "id": 182082095
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "n0naphat",
+              "submission": "submit/2026-08-13T09-16-35Z-395433d",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/commit/395433d4eb97b948849fed15303b477b40c0d99a",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/releases/tag/submit%2F2026-08-13T09-16-35Z-395433d",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-n0naphat/compare/2935e76b64d6a601c492ea4da51ade7dfc52b79a...395433d4eb97b948849fed15303b477b40c0d99a",
+              "datetime": "2026-08-13T09:16:23Z",
+              "graded_at": "2026-08-13T09:16:44Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "n0naphat",
+                "id": 182082095
+              }
+            }
+          ]
+        },
+        {
+          "owner": "AnanKaijeaw",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "anankaijeaw",
+              "submission": "submit/2026-08-13T09-56-19Z-869303d",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/commit/869303d01c50464cb24955ca4c7384a67132d7ae",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/releases/tag/submit%2F2026-08-13T09-56-19Z-869303d",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/compare/e0e01f5e45e5e1b2ba0a6bee096985c652a08b48...869303d01c50464cb24955ca4c7384a67132d7ae",
+              "datetime": "2026-08-13T09:55:51Z",
+              "graded_at": "2026-08-13T09:56:33Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AnanKaijeaw",
+                "id": 183628483
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "anankaijeaw",
+              "submission": "submit/2026-08-13T09-55-38Z-3d5887a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/commit/3d5887a62324fba4f19a81e678213f056c3a93c5",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/releases/tag/submit%2F2026-08-13T09-55-38Z-3d5887a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-anankaijeaw/compare/e0e01f5e45e5e1b2ba0a6bee096985c652a08b48...3d5887a62324fba4f19a81e678213f056c3a93c5",
+              "datetime": "2026-08-13T09:55:23Z",
+              "graded_at": "2026-08-13T09:55:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AnanKaijeaw",
+                "id": 183628483
+              }
+            }
+          ]
+        },
+        {
+          "owner": "XiCKK",
+          "first_name": "Suphawit",
+          "last_name": "Sapnoi",
+          "email": "suphawitx@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "xickk",
+              "submission": "submit/2026-08-13T09-50-01Z-dc84721",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/commit/dc8472108e7ed9ef8d0c4003200f569f2f05e7e7",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/releases/tag/submit%2F2026-08-13T09-50-01Z-dc84721",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/compare/9714e8b5d775cebeba28d29430d0f40d2358d983...dc8472108e7ed9ef8d0c4003200f569f2f05e7e7",
+              "datetime": "2026-08-13T09:49:25Z",
+              "graded_at": "2026-08-13T09:50:15Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "XiCKK",
+                "id": 183771873
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "xickk",
+              "submission": "submit/2026-08-13T09-49-27Z-d7fd2de",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/commit/d7fd2de62b1004f3229aeb19b7ebcc696f3e23d3",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/releases/tag/submit%2F2026-08-13T09-49-27Z-d7fd2de",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xickk/compare/9714e8b5d775cebeba28d29430d0f40d2358d983...d7fd2de62b1004f3229aeb19b7ebcc696f3e23d3",
+              "datetime": "2026-08-13T09:49:04Z",
+              "graded_at": "2026-08-13T09:49:39Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "XiCKK",
+                "id": 183771873
+              }
+            }
+          ]
+        },
+        {
+          "owner": "chakphet999",
+          "first_name": "chakphet",
+          "email": "chakphet.gloa@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "chakphet999",
+              "submission": "submit/2026-08-13T08-21-55Z-2d39896",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/commit/2d39896df376a2efdca85d9c143e8ad8b80d72d1",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/releases/tag/submit%2F2026-08-13T08-21-55Z-2d39896",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/compare/35c6fc1b17854900125c12b55150a7b212e230f6...2d39896df376a2efdca85d9c143e8ad8b80d72d1",
+              "datetime": "2026-08-13T08:21:42Z",
+              "graded_at": "2026-08-13T08:22:18Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "chakphet999",
+                "id": 188406544
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "chakphet999",
+              "submission": "submit/2026-08-13T08-20-54Z-84ea05a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/commit/84ea05a874b2cc060e6f26d0298d5c246bd19b8c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/releases/tag/submit%2F2026-08-13T08-20-54Z-84ea05a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chakphet999/compare/35c6fc1b17854900125c12b55150a7b212e230f6...84ea05a874b2cc060e6f26d0298d5c246bd19b8c",
+              "datetime": "2026-08-13T08:20:40Z",
+              "graded_at": "2026-08-13T08:21:06Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "chakphet999",
+                "id": 188406544
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Harusama0411",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "harusama0411",
+              "submission": "submit/2026-08-13T09-16-56Z-8c5dfa7",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/commit/8c5dfa7c52b93345d3e16681f185a4419b0546fb",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/releases/tag/submit%2F2026-08-13T09-16-56Z-8c5dfa7",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/compare/c02c4376b66530c6bc35c464690b69986b0f6ef5...8c5dfa7c52b93345d3e16681f185a4419b0546fb",
+              "datetime": "2026-08-13T09:16:14Z",
+              "graded_at": "2026-08-13T09:17:13Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Harusama0411",
+                "id": 195642284
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "harusama0411",
+              "submission": "submit/2026-08-13T09-16-14Z-6e448bc",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/commit/6e448bcdeff304c2f13a2f1fff2e2a79f83c1ab6",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/releases/tag/submit%2F2026-08-13T09-16-14Z-6e448bc",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/compare/c02c4376b66530c6bc35c464690b69986b0f6ef5...6e448bcdeff304c2f13a2f1fff2e2a79f83c1ab6",
+              "datetime": "2026-08-13T09:16:03Z",
+              "graded_at": "2026-08-13T09:16:28Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Harusama0411",
+                "id": 195642284
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "harusama0411",
+              "submission": "submit/2026-08-12T13-20-26Z-f97fe68",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/commit/f97fe68fc8eb7e9a63e6b013853d07ee09b01e63",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/releases/tag/submit%2F2026-08-12T13-20-26Z-f97fe68",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/compare/c02c4376b66530c6bc35c464690b69986b0f6ef5...f97fe68fc8eb7e9a63e6b013853d07ee09b01e63",
+              "datetime": "2026-08-12T13:19:59Z",
+              "graded_at": "2026-08-12T13:20:46Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Harusama0411",
+                "id": 195642284
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "harusama0411",
+              "submission": "submit/2026-08-12T13-19-53Z-0383f47",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/commit/0383f47af6080e36cbdf69790b3bf9a8cd67abb9",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/releases/tag/submit%2F2026-08-12T13-19-53Z-0383f47",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-harusama0411/compare/c02c4376b66530c6bc35c464690b69986b0f6ef5...0383f47af6080e36cbdf69790b3bf9a8cd67abb9",
+              "datetime": "2026-08-12T13:19:41Z",
+              "graded_at": "2026-08-12T13:20:03Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Harusama0411",
+                "id": 195642284
+              }
+            }
+          ]
+        },
+        {
+          "owner": "kattastkk",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kattastkk",
+              "submission": "submit/2026-08-13T09-16-52Z-2824a8d",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/commit/2824a8d636b471cc47bd4798a28ca60968ffe3fc",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/releases/tag/submit%2F2026-08-13T09-16-52Z-2824a8d",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/compare/0a5076d4eafead429be80555259e794de2966079...2824a8d636b471cc47bd4798a28ca60968ffe3fc",
+              "datetime": "2026-08-13T09:16:29Z",
+              "graded_at": "2026-08-13T09:17:08Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kattastkk",
+                "id": 196566200
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "kattastkk",
+              "submission": "submit/2026-08-13T09-15-55Z-b37ed50",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/commit/b37ed50b444155020c08c0ec3c108e5d829cb8fb",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/releases/tag/submit%2F2026-08-13T09-15-55Z-b37ed50",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-kattastkk/compare/0a5076d4eafead429be80555259e794de2966079...b37ed50b444155020c08c0ec3c108e5d829cb8fb",
+              "datetime": "2026-08-13T09:15:41Z",
+              "graded_at": "2026-08-13T09:16:15Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "kattastkk",
+                "id": 196566200
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Shad0wzzPudding",
+          "first_name": "Inazumi",
+          "last_name": "Ikari",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "shad0wzzpudding",
+              "submission": "submit/2026-08-13T09-15-51Z-6dceb93",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-shad0wzzpudding/commit/6dceb931cbdb1921e0fee4156e2fa11c15df3bee",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-shad0wzzpudding/releases/tag/submit%2F2026-08-13T09-15-51Z-6dceb93",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-shad0wzzpudding/compare/4a586feb5129b05b45c5014e25089863239a4654...6dceb931cbdb1921e0fee4156e2fa11c15df3bee",
+              "datetime": "2026-08-13T09:15:35Z",
+              "graded_at": "2026-08-13T09:16:06Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Shad0wzzPudding",
+                "id": 212101814
+              }
+            }
+          ]
+        },
+        {
+          "owner": "jobtanut",
+          "first_name": "Tanut",
+          "last_name": "Noumanong",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "jobtanut",
+              "submission": "submit/2026-08-13T10-00-22Z-648dc8a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/commit/648dc8af72cdf873a2823e76324664fa100b99dc",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/releases/tag/submit%2F2026-08-13T10-00-22Z-648dc8a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/compare/5c81d3923fed2aff3ec991f6a844ea973a96240e...648dc8af72cdf873a2823e76324664fa100b99dc",
+              "datetime": "2026-08-13T10:00:01Z",
+              "graded_at": "2026-08-13T10:00:37Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "jobtanut",
+                "id": 220012049
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "jobtanut",
+              "submission": "submit/2026-08-13T09-26-19Z-bc5cbc3",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/commit/bc5cbc34df4cfccadeb3690ca91c5e673e1ac2a4",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/releases/tag/submit%2F2026-08-13T09-26-19Z-bc5cbc3",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/compare/5c81d3923fed2aff3ec991f6a844ea973a96240e...bc5cbc34df4cfccadeb3690ca91c5e673e1ac2a4",
+              "datetime": "2026-08-13T09:25:55Z",
+              "graded_at": "2026-08-13T09:26:33Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "jobtanut",
+                "id": 220012049
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "jobtanut",
+              "submission": "submit/2026-08-13T09-12-09Z-9cc7cb2",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/commit/9cc7cb2c3e7a7a8eba764f753274504b4cd900c5",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/releases/tag/submit%2F2026-08-13T09-12-09Z-9cc7cb2",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-jobtanut/compare/5c81d3923fed2aff3ec991f6a844ea973a96240e...9cc7cb2c3e7a7a8eba764f753274504b4cd900c5",
+              "datetime": "2026-08-13T09:11:51Z",
+              "graded_at": "2026-08-13T09:12:22Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "jobtanut",
+                "id": 220012049
+              }
+            }
+          ]
+        },
+        {
+          "owner": "tiansawang1818-pixel",
+          "first_name": "MR.Burger",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "tiansawang1818-pixel",
+              "submission": "submit/2026-08-13T10-30-45Z-5fd0e5e",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/commit/5fd0e5ea414be7dcf722072121b7309a903d744d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/releases/tag/submit%2F2026-08-13T10-30-45Z-5fd0e5e",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/compare/42abc30559445478e09931a20aa590df3c935af5...5fd0e5ea414be7dcf722072121b7309a903d744d",
+              "datetime": "2026-08-13T10:30:28Z",
+              "graded_at": "2026-08-13T10:30:56Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "tiansawang1818-pixel",
+                "id": 224453308
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "tiansawang1818-pixel",
+              "submission": "submit/2026-08-13T10-17-56Z-7e43250",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/commit/7e43250d69d18833bb66dd09457a0989a1f5bd2d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/releases/tag/submit%2F2026-08-13T10-17-56Z-7e43250",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/compare/42abc30559445478e09931a20aa590df3c935af5...7e43250d69d18833bb66dd09457a0989a1f5bd2d",
+              "datetime": "2026-08-13T10:17:43Z",
+              "graded_at": "2026-08-13T10:18:11Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "tiansawang1818-pixel",
+                "id": 224453308
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "tiansawang1818-pixel",
+              "submission": "submit/2026-08-13T09-58-34Z-8ac0c1d",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/commit/8ac0c1dd8cbec2e8aaf3113fd25d813c9453121a",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/releases/tag/submit%2F2026-08-13T09-58-34Z-8ac0c1d",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/compare/42abc30559445478e09931a20aa590df3c935af5...8ac0c1dd8cbec2e8aaf3113fd25d813c9453121a",
+              "datetime": "2026-08-13T09:58:19Z",
+              "graded_at": "2026-08-13T09:58:43Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "tiansawang1818-pixel",
+                "id": 224453308
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "tiansawang1818-pixel",
+              "submission": "submit/2026-08-13T09-57-52Z-d5579ba",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/commit/d5579ba2600341a36e0ceb0d6cb228e974925c8f",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/releases/tag/submit%2F2026-08-13T09-57-52Z-d5579ba",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/compare/42abc30559445478e09931a20aa590df3c935af5...d5579ba2600341a36e0ceb0d6cb228e974925c8f",
+              "datetime": "2026-08-13T09:57:23Z",
+              "graded_at": "2026-08-13T09:58:12Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "tiansawang1818-pixel",
+                "id": 224453308
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "tiansawang1818-pixel",
+              "submission": "submit/2026-08-13T09-57-10Z-277a5d2",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/commit/277a5d2a4782d4fb179c2b426a93ef23db16d9a6",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/releases/tag/submit%2F2026-08-13T09-57-10Z-277a5d2",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-tiansawang1818-pixel/compare/42abc30559445478e09931a20aa590df3c935af5...277a5d2a4782d4fb179c2b426a93ef23db16d9a6",
+              "datetime": "2026-08-13T09:56:58Z",
+              "graded_at": "2026-08-13T09:57:26Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "tiansawang1818-pixel",
+                "id": 224453308
+              }
+            }
+          ]
+        },
+        {
+          "owner": "guntichainma",
+          "first_name": "karaagechicken",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "guntichainma",
+              "submission": "submit/2026-08-13T09-28-59Z-f908ada",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-guntichainma/commit/f908ada627ba7974bdf460822917edb1a57e5760",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-guntichainma/releases/tag/submit%2F2026-08-13T09-28-59Z-f908ada",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-guntichainma/compare/1a3fa97148e4624faa334cbb6d6e8188f451721d...f908ada627ba7974bdf460822917edb1a57e5760",
+              "datetime": "2026-08-13T09:28:27Z",
+              "graded_at": "2026-08-13T09:29:10Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "guntichainma",
+                "id": 226822824
+              }
+            }
+          ]
+        },
+        {
+          "owner": "TheToontang",
+          "first_name": "TheToontang",
+          "email": "thetoontang@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thetoontang",
+              "submission": "submit/2026-08-13T09-17-40Z-984b97b",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/commit/984b97bf8005f2042ac0c3609f44cac45c58d34b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/releases/tag/submit%2F2026-08-13T09-17-40Z-984b97b",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/compare/247541094c2f448a0e9804c050e2ffe27aeddbed...984b97bf8005f2042ac0c3609f44cac45c58d34b",
+              "datetime": "2026-08-13T09:17:18Z",
+              "graded_at": "2026-08-13T09:17:53Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "TheToontang",
+                "id": 227201549
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thetoontang",
+              "submission": "submit/2026-08-13T08-54-04Z-d8e070b",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/commit/d8e070b474e2e85c112efdf375d12d19e7538451",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/releases/tag/submit%2F2026-08-13T08-54-04Z-d8e070b",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thetoontang/compare/247541094c2f448a0e9804c050e2ffe27aeddbed...d8e070b474e2e85c112efdf375d12d19e7538451",
+              "datetime": "2026-08-13T08:53:51Z",
+              "graded_at": "2026-08-13T08:54:14Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "TheToontang",
+                "id": 227201549
+              }
+            }
+          ]
+        },
+        {
+          "owner": "naychan2549",
+          "first_name": "naythira6887003",
+          "email": "naychan2549@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "naychan2549",
+              "submission": "submit/2026-08-13T09-48-06Z-8ef50b7",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/commit/8ef50b7140fd97de0b45dfdae30f4589a9a8eb20",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/releases/tag/submit%2F2026-08-13T09-48-06Z-8ef50b7",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/compare/c07b04f58f79c30ce76ef188ed015e26b9f3b891...8ef50b7140fd97de0b45dfdae30f4589a9a8eb20",
+              "datetime": "2026-08-13T09:47:42Z",
+              "graded_at": "2026-08-13T09:48:25Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "naychan2549",
+                "id": 243130132
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "naychan2549",
+              "submission": "submit/2026-08-13T09-47-23Z-7120f70",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/commit/7120f708a0f535d5ab310f895810347d2fa46306",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/releases/tag/submit%2F2026-08-13T09-47-23Z-7120f70",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/compare/c07b04f58f79c30ce76ef188ed015e26b9f3b891...7120f708a0f535d5ab310f895810347d2fa46306",
+              "datetime": "2026-08-13T09:47:11Z",
+              "graded_at": "2026-08-13T09:47:32Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "naychan2549",
+                "id": 243130132
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "naychan2549",
+              "submission": "submit/2026-08-13T09-38-31Z-440092a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/commit/440092a7dd769663e31e0038a3d680500a7f11f3",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/releases/tag/submit%2F2026-08-13T09-38-31Z-440092a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-naychan2549/compare/c07b04f58f79c30ce76ef188ed015e26b9f3b891...440092a7dd769663e31e0038a3d680500a7f11f3",
+              "datetime": "2026-08-13T09:38:16Z",
+              "graded_at": "2026-08-13T09:38:43Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "naychan2549",
+                "id": 243130132
+              }
+            }
+          ]
+        },
+        {
+          "owner": "nameisonpreeya",
+          "first_name": "bambilalarain",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nameisonpreeya",
+              "submission": "submit/2026-08-13T09-15-21Z-4607f67",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nameisonpreeya/commit/4607f67f7e87567080d388d3ec9194c979f86f29",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nameisonpreeya/releases/tag/submit%2F2026-08-13T09-15-21Z-4607f67",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nameisonpreeya/compare/82abba0d0c88ae9d84bb97c5bdb9ed0eeff1d903...4607f67f7e87567080d388d3ec9194c979f86f29",
+              "datetime": "2026-08-13T09:15:04Z",
+              "graded_at": "2026-08-13T09:15:37Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "nameisonpreeya",
+                "id": 244134025
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Zawai-th",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "zawai-th",
+              "submission": "submit/2026-08-13T10-16-24Z-f8346d1",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/commit/f8346d176773e2bf14049d2a2dd1eb551a05a629",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/releases/tag/submit%2F2026-08-13T10-16-24Z-f8346d1",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/compare/b6f1685766efe8a2b23f4e4ebe3c9c96945be81f...f8346d176773e2bf14049d2a2dd1eb551a05a629",
+              "datetime": "2026-08-13T10:16:12Z",
+              "graded_at": "2026-08-13T10:16:37Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Zawai-th",
+                "id": 244286246
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "zawai-th",
+              "submission": "submit/2026-08-13T10-15-30Z-12dcc64",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/commit/12dcc646f83e6a5085770c40f0094f7d6673335c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/releases/tag/submit%2F2026-08-13T10-15-30Z-12dcc64",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-zawai-th/compare/b6f1685766efe8a2b23f4e4ebe3c9c96945be81f...12dcc646f83e6a5085770c40f0094f7d6673335c",
+              "datetime": "2026-08-13T10:15:18Z",
+              "graded_at": "2026-08-13T10:15:40Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Zawai-th",
+                "id": 244286246
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Mammoth076",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "mammoth076",
+              "submission": "submit/2026-08-13T09-55-33Z-8d6d694",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/commit/8d6d6945973ed9c07dc40468a639413fd0c06f9d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/releases/tag/submit%2F2026-08-13T09-55-33Z-8d6d694",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/compare/9f5370f09b93f3dde766b34ac4513b5b12685434...8d6d6945973ed9c07dc40468a639413fd0c06f9d",
+              "datetime": "2026-08-13T09:55:01Z",
+              "graded_at": "2026-08-13T09:55:47Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Mammoth076",
+                "id": 276935181
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "mammoth076",
+              "submission": "submit/2026-08-13T09-54-49Z-5d4b026",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/commit/5d4b026605c369aed441bb94fc789b9c6051fd6a",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/releases/tag/submit%2F2026-08-13T09-54-49Z-5d4b026",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-mammoth076/compare/9f5370f09b93f3dde766b34ac4513b5b12685434...5d4b026605c369aed441bb94fc789b9c6051fd6a",
+              "datetime": "2026-08-13T09:54:37Z",
+              "graded_at": "2026-08-13T09:55:00Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Mammoth076",
+                "id": 276935181
+              }
+            }
+          ]
+        },
+        {
+          "owner": "R3m0nGI",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "r3m0ngi",
+              "submission": "submit/2026-08-13T10-10-07Z-9545294",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-r3m0ngi/commit/9545294ce88a0f9d79f4585c73a89e1e10204a6e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-r3m0ngi/releases/tag/submit%2F2026-08-13T10-10-07Z-9545294",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-r3m0ngi/compare/78a3b99b8dfa74f7b2a500e347ab7afad5924f51...9545294ce88a0f9d79f4585c73a89e1e10204a6e",
+              "datetime": "2026-08-13T10:09:49Z",
+              "graded_at": "2026-08-13T10:10:21Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "R3m0nGI",
+                "id": 278438503
+              }
+            }
+          ]
+        },
+        {
+          "owner": "AoojunHappyman",
+          "first_name": "Aoojun",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "aoojunhappyman",
+              "submission": "submit/2026-08-13T09-10-48Z-e6ad88f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/commit/e6ad88fb42ab60789e991780f07843b8f78b83ed",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/releases/tag/submit%2F2026-08-13T09-10-48Z-e6ad88f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/compare/9c540391d692153fd844a86823d0f34c30ff7461...e6ad88fb42ab60789e991780f07843b8f78b83ed",
+              "datetime": "2026-08-13T09:10:20Z",
+              "graded_at": "2026-08-13T09:11:02Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AoojunHappyman",
+                "id": 279326503
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "aoojunhappyman",
+              "submission": "submit/2026-08-13T09-10-12Z-b08d0e0",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/commit/b08d0e06849e4b8542c0a8e62570c24ec3697ec0",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/releases/tag/submit%2F2026-08-13T09-10-12Z-b08d0e0",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-aoojunhappyman/compare/9c540391d692153fd844a86823d0f34c30ff7461...b08d0e06849e4b8542c0a8e62570c24ec3697ec0",
+              "datetime": "2026-08-13T09:10:01Z",
+              "graded_at": "2026-08-13T09:10:21Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "AoojunHappyman",
+                "id": 279326503
+              }
+            }
+          ]
+        },
+        {
+          "owner": "bigboy10k",
+          "first_name": "LeoNadolDawinzhy",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bigboy10k",
+              "submission": "submit/2026-08-13T09-33-41Z-45e022f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bigboy10k/commit/45e022f8ac9f00d45c6d552a8a5a060d893649cd",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bigboy10k/releases/tag/submit%2F2026-08-13T09-33-41Z-45e022f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bigboy10k/compare/3eca7c01200ce99ee94dcd4566140ef826284da9...45e022f8ac9f00d45c6d552a8a5a060d893649cd",
+              "datetime": "2026-08-13T09:33:27Z",
+              "graded_at": "2026-08-13T09:34:09Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bigboy10k",
+                "id": 286560157
+              }
+            }
+          ]
+        },
+        {
+          "owner": "thunyanuntriamlumlertworkspace-afk",
+          "first_name": "TH_Eveline",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thunyanuntriamlumlertworkspace-afk",
+              "submission": "submit/2026-08-13T09-54-11Z-ca7b928",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/commit/ca7b928d5155821b8df19755e45a5425c87e7d74",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/releases/tag/submit%2F2026-08-13T09-54-11Z-ca7b928",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/compare/03d9c5aedd7ff5e3d2e969b0d1d327944327238a...ca7b928d5155821b8df19755e45a5425c87e7d74",
+              "datetime": "2026-08-13T09:53:34Z",
+              "graded_at": "2026-08-13T09:54:22Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "thunyanuntriamlumlertworkspace-afk",
+                "id": 312149481
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thunyanuntriamlumlertworkspace-afk",
+              "submission": "submit/2026-08-13T09-53-25Z-a7988cf",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/commit/a7988cfd4036706c8d085a0c2a9f6b80deffac75",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/releases/tag/submit%2F2026-08-13T09-53-25Z-a7988cf",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thunyanuntriamlumlertworkspace-afk/compare/03d9c5aedd7ff5e3d2e969b0d1d327944327238a...a7988cfd4036706c8d085a0c2a9f6b80deffac75",
+              "datetime": "2026-08-13T09:53:06Z",
+              "graded_at": "2026-08-13T09:53:39Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "thunyanuntriamlumlertworkspace-afk",
+                "id": 312149481
+              }
+            }
+          ]
+        },
+        {
+          "owner": "thanythanyathon-jpg",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thanythanyathon-jpg",
+              "submission": "submit/2026-08-13T09-18-19Z-02b4c17",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/commit/02b4c177be499b1daca2c38f3ee54cdfffe25675",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/releases/tag/submit%2F2026-08-13T09-18-19Z-02b4c17",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/compare/6e80503c59c4f714908d2e9e2ee78c8731a726a1...02b4c177be499b1daca2c38f3ee54cdfffe25675",
+              "datetime": "2026-08-13T09:18:08Z",
+              "graded_at": "2026-08-13T09:18:40Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "thanythanyathon-jpg",
+                "id": 312875423
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "thanythanyathon-jpg",
+              "submission": "submit/2026-08-13T09-16-40Z-78bd477",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/commit/78bd47715a64ed740be8960b55ff47019ba0a1ee",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/releases/tag/submit%2F2026-08-13T09-16-40Z-78bd477",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-thanythanyathon-jpg/compare/6e80503c59c4f714908d2e9e2ee78c8731a726a1...78bd47715a64ed740be8960b55ff47019ba0a1ee",
+              "datetime": "2026-08-13T09:16:19Z",
+              "graded_at": "2026-08-13T09:16:52Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "thanythanyathon-jpg",
+                "id": 312875423
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Xmnkllx",
+          "first_name": "Xmnkllx",
+          "email": "mongkholeiei123@gmail.com",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "xmnkllx",
+              "submission": "submit/2026-08-13T09-57-49Z-956c90c",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xmnkllx/commit/956c90c58d33d8947fc4a98e14f5cf0fc25d2e21",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xmnkllx/releases/tag/submit%2F2026-08-13T09-57-49Z-956c90c",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-xmnkllx/compare/7debf3f6551d5d7108ee8da032d84c5fe989ba3b...956c90c58d33d8947fc4a98e14f5cf0fc25d2e21",
+              "datetime": "2026-08-13T09:57:34Z",
+              "graded_at": "2026-08-13T09:58:02Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Xmnkllx",
+                "id": 313255735
+              }
+            }
+          ]
+        },
+        {
+          "owner": "rawinan-txt",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "rawinan-txt",
+              "submission": "submit/2026-08-13T09-51-44Z-d47eab7",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/commit/d47eab70d57e9d0f88f4fe439cc3a8d04d864829",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/releases/tag/submit%2F2026-08-13T09-51-44Z-d47eab7",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/compare/d9b97a6e47320f71ec9d390cbaa83cb103de4bbc...d47eab70d57e9d0f88f4fe439cc3a8d04d864829",
+              "datetime": "2026-08-13T09:51:03Z",
+              "graded_at": "2026-08-13T09:51:54Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "rawinan-txt",
+                "id": 313257119
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "rawinan-txt",
+              "submission": "submit/2026-08-13T09-50-58Z-9829531",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/commit/982953163ff6c70a276b19eaed8031c6285ef8b2",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/releases/tag/submit%2F2026-08-13T09-50-58Z-9829531",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-rawinan-txt/compare/d9b97a6e47320f71ec9d390cbaa83cb103de4bbc...982953163ff6c70a276b19eaed8031c6285ef8b2",
+              "datetime": "2026-08-13T09:50:44Z",
+              "graded_at": "2026-08-13T09:51:10Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "rawinan-txt",
+                "id": 313257119
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Nut1apon",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nut1apon",
+              "submission": "submit/2026-08-13T09-55-23Z-bf3988f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/commit/bf3988f88f7d95c121092064fefa1a83fdce0e78",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/releases/tag/submit%2F2026-08-13T09-55-23Z-bf3988f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/compare/3ffcbda614c27fa1e0b8428ebdd4d44dad132704...bf3988f88f7d95c121092064fefa1a83fdce0e78",
+              "datetime": "2026-08-13T09:54:54Z",
+              "graded_at": "2026-08-13T09:55:37Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nut1apon",
+                "id": 313259881
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nut1apon",
+              "submission": "submit/2026-08-13T09-42-25Z-a7c47ea",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/commit/a7c47ea408464189b8f321b67b24c9d0e6f7ab8b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/releases/tag/submit%2F2026-08-13T09-42-25Z-a7c47ea",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/compare/3ffcbda614c27fa1e0b8428ebdd4d44dad132704...a7c47ea408464189b8f321b67b24c9d0e6f7ab8b",
+              "datetime": "2026-08-13T09:41:48Z",
+              "graded_at": "2026-08-13T09:42:39Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nut1apon",
+                "id": 313259881
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nut1apon",
+              "submission": "submit/2026-08-13T09-41-43Z-8ad7e0e",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/commit/8ad7e0e3265865f4cca98cfeab2d8e5bb4579868",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/releases/tag/submit%2F2026-08-13T09-41-43Z-8ad7e0e",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/compare/3ffcbda614c27fa1e0b8428ebdd4d44dad132704...8ad7e0e3265865f4cca98cfeab2d8e5bb4579868",
+              "datetime": "2026-08-13T09:41:24Z",
+              "graded_at": "2026-08-13T09:41:58Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nut1apon",
+                "id": 313259881
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nut1apon",
+              "submission": "submit/2026-08-13T09-20-37Z-df1dbe7",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/commit/df1dbe7ac5a123f962c6aa73189a79c9d1d5a9dd",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/releases/tag/submit%2F2026-08-13T09-20-37Z-df1dbe7",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/compare/3ffcbda614c27fa1e0b8428ebdd4d44dad132704...df1dbe7ac5a123f962c6aa73189a79c9d1d5a9dd",
+              "datetime": "2026-08-13T09:20:15Z",
+              "graded_at": "2026-08-13T09:20:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nut1apon",
+                "id": 313259881
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nut1apon",
+              "submission": "submit/2026-08-13T09-20-05Z-b495d76",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/commit/b495d76dfb739668803a711110e97733dc49e680",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/releases/tag/submit%2F2026-08-13T09-20-05Z-b495d76",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nut1apon/compare/3ffcbda614c27fa1e0b8428ebdd4d44dad132704...b495d76dfb739668803a711110e97733dc49e680",
+              "datetime": "2026-08-13T09:19:52Z",
+              "graded_at": "2026-08-13T09:20:17Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nut1apon",
+                "id": 313259881
+              }
+            }
+          ]
+        },
+        {
+          "owner": "chaiyawat-zz",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "chaiyawat-zz",
+              "submission": "submit/2026-08-13T10-01-18Z-36b2ef3",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/commit/36b2ef329f5517f060e688f9dafdf5d73ee88436",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/releases/tag/submit%2F2026-08-13T10-01-18Z-36b2ef3",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/compare/4a09d0486ae50d8dd16721a95bf4a87849fa600c...36b2ef329f5517f060e688f9dafdf5d73ee88436",
+              "datetime": "2026-08-13T10:01:02Z",
+              "graded_at": "2026-08-13T10:01:30Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "chaiyawat-zz",
+                "id": 313260479
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "chaiyawat-zz",
+              "submission": "submit/2026-08-13T09-58-11Z-ae4529f",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/commit/ae4529ff51cf72dd346956ee4fd7a1873c78fd84",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/releases/tag/submit%2F2026-08-13T09-58-11Z-ae4529f",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-chaiyawat-zz/compare/4a09d0486ae50d8dd16721a95bf4a87849fa600c...ae4529ff51cf72dd346956ee4fd7a1873c78fd84",
+              "datetime": "2026-08-13T09:57:56Z",
+              "graded_at": "2026-08-13T09:58:23Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "chaiyawat-zz",
+                "id": 313260479
+              }
+            }
+          ]
+        },
+        {
+          "owner": "PanjiraYamroj",
+          "first_name": "Panjira",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "panjirayamroj",
+              "submission": "submit/2026-08-13T15-02-40Z-c091344",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/commit/c091344bb9b9931678bdd71bddeb84402cfbd771",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/releases/tag/submit%2F2026-08-13T15-02-40Z-c091344",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/compare/e3de6118b1626658bc6513c981ff5bb6cdca20fa...c091344bb9b9931678bdd71bddeb84402cfbd771",
+              "datetime": "2026-08-13T15:02:20Z",
+              "graded_at": "2026-08-13T15:02:52Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PanjiraYamroj",
+                "id": 313414239
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "panjirayamroj",
+              "submission": "submit/2026-08-13T14-47-16Z-2130a10",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/commit/2130a10b6b3758eac7f00a5bd763e531d8c8106c",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/releases/tag/submit%2F2026-08-13T14-47-16Z-2130a10",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/compare/e3de6118b1626658bc6513c981ff5bb6cdca20fa...2130a10b6b3758eac7f00a5bd763e531d8c8106c",
+              "datetime": "2026-08-13T14:47:01Z",
+              "graded_at": "2026-08-13T14:47:27Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PanjiraYamroj",
+                "id": 313414239
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "panjirayamroj",
+              "submission": "submit/2026-08-13T10-08-07Z-79fc365",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/commit/79fc3655e6c197a535925b64ff0ff9aba62ef66f",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/releases/tag/submit%2F2026-08-13T10-08-07Z-79fc365",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/compare/e3de6118b1626658bc6513c981ff5bb6cdca20fa...79fc3655e6c197a535925b64ff0ff9aba62ef66f",
+              "datetime": "2026-08-13T10:07:54Z",
+              "graded_at": "2026-08-13T10:08:17Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PanjiraYamroj",
+                "id": 313414239
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "panjirayamroj",
+              "submission": "submit/2026-08-13T10-05-03Z-0aa58f4",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/commit/0aa58f475033c79bf435fe69d28909a847bc0b34",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/releases/tag/submit%2F2026-08-13T10-05-03Z-0aa58f4",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-panjirayamroj/compare/e3de6118b1626658bc6513c981ff5bb6cdca20fa...0aa58f475033c79bf435fe69d28909a847bc0b34",
+              "datetime": "2026-08-13T10:04:50Z",
+              "graded_at": "2026-08-13T10:05:14Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "PanjiraYamroj",
+                "id": 313414239
+              }
+            }
+          ]
+        },
+        {
+          "owner": "pattamanan-pp",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pattamanan-pp",
+              "submission": "submit/2026-08-13T09-18-43Z-6bcb87e",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/commit/6bcb87e0e351c3bec569b39bbfcd85f32cc4276d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/releases/tag/submit%2F2026-08-13T09-18-43Z-6bcb87e",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/compare/e868757b7b9d9aec7f73a4253cce984eb155a319...6bcb87e0e351c3bec569b39bbfcd85f32cc4276d",
+              "datetime": "2026-08-13T09:18:09Z",
+              "graded_at": "2026-08-13T09:18:57Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "pattamanan-pp",
+                "id": 313717581
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pattamanan-pp",
+              "submission": "submit/2026-08-13T09-17-55Z-fd210fb",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/commit/fd210fbab1fff1f6b550bd16f1f21e283dcaa888",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/releases/tag/submit%2F2026-08-13T09-17-55Z-fd210fb",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pattamanan-pp/compare/e868757b7b9d9aec7f73a4253cce984eb155a319...fd210fbab1fff1f6b550bd16f1f21e283dcaa888",
+              "datetime": "2026-08-13T09:17:34Z",
+              "graded_at": "2026-08-13T09:18:08Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "pattamanan-pp",
+                "id": 313717581
+              }
+            }
+          ]
+        },
+        {
+          "owner": "bebe6887004",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bebe6887004",
+              "submission": "submit/2026-08-13T10-00-03Z-78f2f99",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/commit/78f2f99dbdc4055da769ec470545fe11de9ecb3e",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/releases/tag/submit%2F2026-08-13T10-00-03Z-78f2f99",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/compare/8041c94dfcc14fde865edb92a1ad0a742c56e4d6...78f2f99dbdc4055da769ec470545fe11de9ecb3e",
+              "datetime": "2026-08-13T09:59:23Z",
+              "graded_at": "2026-08-13T10:00:16Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bebe6887004",
+                "id": 313726024
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bebe6887004",
+              "submission": "submit/2026-08-13T09-59-18Z-18f42ae",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/commit/18f42aedd33af29e2e7e4ef5b69435c8f222ce27",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/releases/tag/submit%2F2026-08-13T09-59-18Z-18f42ae",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/compare/8041c94dfcc14fde865edb92a1ad0a742c56e4d6...18f42aedd33af29e2e7e4ef5b69435c8f222ce27",
+              "datetime": "2026-08-13T09:59:00Z",
+              "graded_at": "2026-08-13T09:59:31Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bebe6887004",
+                "id": 313726024
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "bebe6887004",
+              "submission": "submit/2026-08-13T09-57-36Z-e15c0c1",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/commit/e15c0c19ec867d4023b8a642cac7d4bd0171c027",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/releases/tag/submit%2F2026-08-13T09-57-36Z-e15c0c1",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-bebe6887004/compare/8041c94dfcc14fde865edb92a1ad0a742c56e4d6...e15c0c19ec867d4023b8a642cac7d4bd0171c027",
+              "datetime": "2026-08-13T09:57:24Z",
+              "graded_at": "2026-08-13T09:57:48Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "bebe6887004",
+                "id": 313726024
+              }
+            }
+          ]
+        },
+        {
+          "owner": "monthisa2549",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "monthisa2549",
+              "submission": "submit/2026-08-13T10-01-01Z-b1cb7ba",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/commit/b1cb7ba4d073dda4f4a05fc8d75e0ea90601b5d8",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/releases/tag/submit%2F2026-08-13T10-01-01Z-b1cb7ba",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/compare/690f2a6f064ba2921f07e96b6231e61a80241561...b1cb7ba4d073dda4f4a05fc8d75e0ea90601b5d8",
+              "datetime": "2026-08-13T10:00:29Z",
+              "graded_at": "2026-08-13T10:01:16Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "monthisa2549",
+                "id": 313726328
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "monthisa2549",
+              "submission": "submit/2026-08-13T10-00-21Z-c170181",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/commit/c170181a49394619b6eb35f8bc66d39722575150",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/releases/tag/submit%2F2026-08-13T10-00-21Z-c170181",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-monthisa2549/compare/690f2a6f064ba2921f07e96b6231e61a80241561...c170181a49394619b6eb35f8bc66d39722575150",
+              "datetime": "2026-08-13T10:00:07Z",
+              "graded_at": "2026-08-13T10:00:34Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "monthisa2549",
+                "id": 313726328
+              }
+            }
+          ]
+        },
+        {
+          "owner": "LatthapholS",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "latthaphols",
+              "submission": "submit/2026-08-13T09-21-34Z-e220c11",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/commit/e220c11d77bd618dd2ca292b76a117b4316b2f40",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/releases/tag/submit%2F2026-08-13T09-21-34Z-e220c11",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/compare/74c882a908291560947e67a0eb7e8f6a40f1903b...e220c11d77bd618dd2ca292b76a117b4316b2f40",
+              "datetime": "2026-08-13T09:21:18Z",
+              "graded_at": "2026-08-13T09:21:45Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "LatthapholS",
+                "id": 313745106
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "latthaphols",
+              "submission": "submit/2026-08-12T10-05-29Z-445f3f8",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/commit/445f3f83fd168daafcc1e490b527dd2e5d20a2c9",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/releases/tag/submit%2F2026-08-12T10-05-29Z-445f3f8",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/compare/74c882a908291560947e67a0eb7e8f6a40f1903b...445f3f83fd168daafcc1e490b527dd2e5d20a2c9",
+              "datetime": "2026-08-12T10:04:53Z",
+              "graded_at": "2026-08-12T10:05:51Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "LatthapholS",
+                "id": 313745106
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "latthaphols",
+              "submission": "submit/2026-08-12T10-04-46Z-3ec563e",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/commit/3ec563e4cd7414c0fb2105fdb96f75b3e202e789",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/releases/tag/submit%2F2026-08-12T10-04-46Z-3ec563e",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-latthaphols/compare/74c882a908291560947e67a0eb7e8f6a40f1903b...3ec563e4cd7414c0fb2105fdb96f75b3e202e789",
+              "datetime": "2026-08-12T10:04:33Z",
+              "graded_at": "2026-08-12T10:05:02Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "LatthapholS",
+                "id": 313745106
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Nachapol1311",
+          "first_name": "Nachapol",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-52-25Z-b2bbc96",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/b2bbc9635523881d26b342d6a6ea8e273bb24d55",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-52-25Z-b2bbc96",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...b2bbc9635523881d26b342d6a6ea8e273bb24d55",
+              "datetime": "2026-08-13T09:52:04Z",
+              "graded_at": "2026-08-13T09:52:39Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-43-44Z-2189b28",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/2189b28b30265f2fe9076c01d0c40745aa9de3dc",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-43-44Z-2189b28",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...2189b28b30265f2fe9076c01d0c40745aa9de3dc",
+              "datetime": "2026-08-13T09:43:30Z",
+              "graded_at": "2026-08-13T09:44:04Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-30-17Z-85923d9",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/85923d98c962d00003a87d6753eac3076e54f53b",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-30-17Z-85923d9",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...85923d98c962d00003a87d6753eac3076e54f53b",
+              "datetime": "2026-08-13T09:29:53Z",
+              "graded_at": "2026-08-13T09:30:28Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-26-54Z-c1afb44",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/c1afb445d2b14fb3f6675565c9cab1429d7a06b6",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-26-54Z-c1afb44",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...c1afb445d2b14fb3f6675565c9cab1429d7a06b6",
+              "datetime": "2026-08-13T09:26:41Z",
+              "graded_at": "2026-08-13T09:27:08Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-19-57Z-7add679",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/7add679e7b5ddca1dfe9f4ce8d1758f76a5d57c6",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-19-57Z-7add679",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...7add679e7b5ddca1dfe9f4ce8d1758f76a5d57c6",
+              "datetime": "2026-08-13T09:19:44Z",
+              "graded_at": "2026-08-13T09:20:06Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "nachapol1311",
+              "submission": "submit/2026-08-13T09-13-15Z-fa5982a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/commit/fa5982a288269515960f3fa1e4a8eedc0240f030",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/releases/tag/submit%2F2026-08-13T09-13-15Z-fa5982a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-nachapol1311/compare/457add2bc15e10ff6d4eb77ca2fb1da92565f64c...fa5982a288269515960f3fa1e4a8eedc0240f030",
+              "datetime": "2026-08-13T09:12:32Z",
+              "graded_at": "2026-08-13T09:13:25Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Nachapol1311",
+                "id": 313758652
+              }
+            }
+          ]
+        },
+        {
+          "owner": "Yen-suk",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "yen-suk",
+              "submission": "submit/2026-08-13T10-11-40Z-57b6016",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/commit/57b60163372e2f0f400d3ae1122d8e80d2788065",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/releases/tag/submit%2F2026-08-13T10-11-40Z-57b6016",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/compare/1da05b4331cf8c53d97dbe77823754c0a93b33af...57b60163372e2f0f400d3ae1122d8e80d2788065",
+              "datetime": "2026-08-13T10:11:11Z",
+              "graded_at": "2026-08-13T10:16:54Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Yen-suk",
+                "id": 313768025
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "yen-suk",
+              "submission": "submit/2026-08-13T10-10-55Z-efa419c",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/commit/efa419c39e8b230cf7af6c1dcb694efa479c27fb",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/releases/tag/submit%2F2026-08-13T10-10-55Z-efa419c",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-yen-suk/compare/1da05b4331cf8c53d97dbe77823754c0a93b33af...efa419c39e8b230cf7af6c1dcb694efa479c27fb",
+              "datetime": "2026-08-13T10:10:43Z",
+              "graded_at": "2026-08-13T10:11:15Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "Yen-suk",
+                "id": 313768025
+              }
+            }
+          ]
+        },
+        {
+          "owner": "WantSleep-Git",
+          "first_name": "WantSleep",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "wantsleep-git",
+              "submission": "submit/2026-08-13T10-00-11Z-20b8bd2",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/commit/20b8bd2048b1b57551d69d2e95aa6682e89bbbbe",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/releases/tag/submit%2F2026-08-13T10-00-11Z-20b8bd2",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/compare/07afb5be96371dd0fdd2d18667bd56499d3ee739...20b8bd2048b1b57551d69d2e95aa6682e89bbbbe",
+              "datetime": "2026-08-13T09:59:35Z",
+              "graded_at": "2026-08-13T10:00:34Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "WantSleep-Git",
+                "id": 313785941
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "wantsleep-git",
+              "submission": "submit/2026-08-13T09-59-29Z-167990c",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/commit/167990c2f83cdedeca01890b38873bac0bb869e7",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/releases/tag/submit%2F2026-08-13T09-59-29Z-167990c",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-wantsleep-git/compare/07afb5be96371dd0fdd2d18667bd56499d3ee739...167990c2f83cdedeca01890b38873bac0bb869e7",
+              "datetime": "2026-08-13T09:59:11Z",
+              "graded_at": "2026-08-13T09:59:45Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "WantSleep-Git",
+                "id": 313785941
+              }
+            }
+          ]
+        },
+        {
+          "owner": "pimmylovepuppy",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pimmylovepuppy",
+              "submission": "submit/2026-08-13T10-28-23Z-604cc5a",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/commit/604cc5ab1a69256d82c4ba34e002b7e4884c5244",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/releases/tag/submit%2F2026-08-13T10-28-23Z-604cc5a",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/compare/765a7403dd17208efb20533a2f4897182c517804...604cc5ab1a69256d82c4ba34e002b7e4884c5244",
+              "datetime": "2026-08-13T10:27:46Z",
+              "graded_at": "2026-08-13T10:28:33Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "pimmylovepuppy",
+                "id": 313786180
+              }
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "691-itds242",
+              "assignment_type": "individual",
+              "owner": "pimmylovepuppy",
+              "submission": "submit/2026-08-13T10-27-44Z-fd2b877",
+              "commit": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/commit/fd2b877b5afc9c0e82b2b480a3853caa9e09a96d",
+              "release": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/releases/tag/submit%2F2026-08-13T10-27-44Z-fd2b877",
+              "review": "https://github.com/MUICT-Class/691-itds242-691-itds242-lab02-pimmylovepuppy/compare/765a7403dd17208efb20533a2f4897182c517804...fd2b877b5afc9c0e82b2b480a3853caa9e09a96d",
+              "datetime": "2026-08-13T10:27:30Z",
+              "graded_at": "2026-08-13T10:27:56Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "pimmylovepuppy",
+                "id": 313786180
+              }
+            }
+          ]
         }
-      ]
+      ],
+      "collected_at": "2026-08-14T05:10:14Z"
+    },
+    "691-itds242-lab04-extra": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:10:14Z"
+    },
+    "691-itds242-lab03": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:10:14Z"
+    },
+    "691-itds242-lab04": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-08-14T05:10:14Z"
     }
   }
 }
