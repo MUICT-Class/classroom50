@@ -115,6 +115,32 @@
       "grading": {
         "mode": "auto"
       }
+    },
+    {
+      "slug": "691-itds242-lab06",
+      "name": "691-itds242-lab06",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-javascript-basic",
+        "branch": "main"
+      },
+      "available_from": "2026-09-10T09:00:00Z",
+      "available_from_meta": {
+        "input": "2026-09-10T16:00:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "submission_mode": "every-push",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
