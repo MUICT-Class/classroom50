@@ -141,6 +141,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "691-itcs258-l07",
+      "name": "691-itcs258-l07",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-role-based-access-control",
+        "branch": "main"
+      },
+      "available_from": "2026-09-18T02:30:00Z",
+      "available_from_meta": {
+        "input": "2026-09-18T09:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "submission_mode": "every-push",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
