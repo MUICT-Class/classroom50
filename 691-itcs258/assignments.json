@@ -248,7 +248,7 @@
     },
     {
       "slug": "691-itcs258-project",
-      "name": "691-ITCS258-Project",
+      "name": "691-itcs258-Project",
       "mode": "team",
       "autograder": "default",
       "feedback_pr": false,
