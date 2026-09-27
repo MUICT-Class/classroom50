@@ -254,7 +254,7 @@
       "feedback_pr": false,
       "empty_repo": true,
       "max_group_size": 3,
-      "team_formation": "teacher",
+      "team_formation": "student",
       "grading": {
         "mode": "off"
       }
