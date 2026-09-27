@@ -193,6 +193,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "691-itcs258-l09",
+      "name": "691-itcs258-l09",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itcs258-lab-API-Document",
+        "branch": "main"
+      },
+      "available_from": "2026-10-10T03:00:00Z",
+      "available_from_meta": {
+        "input": "2026-10-10T10:00:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "locked": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
