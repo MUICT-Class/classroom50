@@ -229,6 +229,38 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "691-itds242-lab11",
+      "name": "691-itds242-lab11",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-nodejs-express-db",
+        "branch": "main"
+      },
+      "due": "2026-11-13T16:59:00Z",
+      "due_meta": {
+        "input": "2026-11-13T23:59:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "available_from": "2026-11-02T03:30:00Z",
+      "available_from_meta": {
+        "input": "2026-11-02T10:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
