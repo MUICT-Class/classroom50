@@ -261,6 +261,19 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "691-itds242-project-phase-ii",
+      "name": "691-itds242-Project Phase II",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "max_group_size": 5,
+      "team_formation": "student",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
