@@ -1,0 +1,53 @@
+{
+  "schema": "classroom50/teams/v1",
+  "assignments": {
+    "691-itcs258-project": {
+      "teams": [
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-1",
+          "id": 20227424,
+          "name": "691_ITCS258_Group6",
+          "members": [
+            "BammLNG",
+            "swagkoon66",
+            "snnnyyunns"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-2",
+          "id": 20227469,
+          "name": "691_ITCS258_Group07",
+          "members": [
+            "waris-sri",
+            "warawuth4",
+            "WachiravichThaosiri"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-3",
+          "id": 20227539,
+          "name": "691_ITCS258_Group09",
+          "members": [
+            "ttoppre",
+            "Yanapat-sit",
+            "Pingxi57"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-4",
+          "id": 20227733,
+          "name": "691_ITCS258_Group05",
+          "members": [
+            "BuildDBob",
+            "ppngskrn",
+            "SupanutKlayhan"
+          ],
+          "formation": "student"
+        }
+      ]
+    }
+  }
+}
