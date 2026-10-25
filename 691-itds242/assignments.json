@@ -326,6 +326,32 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "691-itds242-lab14",
+      "name": "691-itds242-lab14",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "MUICT-Class",
+        "repo": "itds242-lab-react-basic",
+        "branch": "main"
+      },
+      "available_from": "2026-11-16T03:30:00Z",
+      "available_from_meta": {
+        "input": "2026-11-16T10:30:00",
+        "zone": "Asia/Bangkok",
+        "offset": "+07:00",
+        "source": "auto-detected"
+      },
+      "locked": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
