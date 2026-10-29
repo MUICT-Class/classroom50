@@ -1,0 +1,158 @@
+{
+  "schema": "classroom50/teams/v1",
+  "assignments": {
+    "691-itds242-project-phase-ii": {
+      "teams": [
+        {
+          "slug": "classroom50-group-27041eb775410ebe-1",
+          "id": 20310562,
+          "name": "Section2_Group10",
+          "members": [
+            "IceNatthakorn001"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-2",
+          "id": 20310689,
+          "name": "Section2_Group4",
+          "members": [
+            "field4305"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-3",
+          "id": 20310775,
+          "name": "Section2_Group6",
+          "members": [
+            "thkmln",
+            "chompoodontlikecoding",
+            "Springfield-01",
+            "zrxsn",
+            "phrueksamon"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-4",
+          "id": 20311051,
+          "name": "Section2_Group9",
+          "members": [
+            "PhakawatL",
+            "tainnnn",
+            "N3ptz",
+            "SuphawitBonus",
+            "Yanawut50"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-5",
+          "id": 20356323,
+          "name": "Section1_Group11",
+          "members": [
+            "n0naphat",
+            "jobtanut",
+            "guntichainma",
+            "bebe6887004",
+            "monthisa2549"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-6",
+          "id": 20356334,
+          "name": "Section1_Group3",
+          "members": [
+            "Nut1apon",
+            "chaiyawat-zz",
+            "pattamanan-pp",
+            "sruangmon31",
+            "Nachapol1311"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-7",
+          "id": 20405499,
+          "name": "Section1_Group9",
+          "members": [
+            "Raveeroj",
+            "Waiyawat-12",
+            "naychan2549",
+            "R3m0nGI",
+            "Xmnkllx"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-8",
+          "id": 20405557,
+          "name": "Section1_Group10",
+          "members": [
+            "cynmark",
+            "kungnawanghin",
+            "thanythanyathon-jpg",
+            "rawinan-txt",
+            "aunthikarn"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-9",
+          "id": 20405685,
+          "name": "Section1_Group2",
+          "members": [
+            "Kasn-w"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-10",
+          "id": 20405971,
+          "name": "Section1_Group6",
+          "members": [
+            "AnanPut",
+            "Harusama0411",
+            "Ohkrittamath",
+            "Mammoth076",
+            "LatthapholS"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-11",
+          "id": 20406414,
+          "name": "Section1_Group4",
+          "members": [
+            "PeerapeeK",
+            "Nannaphat6887032",
+            "Pimpawee007",
+            "warittawat",
+            "nameisonpreeya"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-12",
+          "id": 20406525,
+          "name": "Section1_Group5",
+          "members": [
+            "tiansawang1818-pixel"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-27041eb775410ebe-13",
+          "id": 20406631,
+          "name": "Section1_Group8",
+          "members": [
+            "bestzip5"
+          ],
+          "formation": "student"
+        }
+      ]
+    }
+  }
+}
