@@ -10,7 +10,7 @@
           "members": [
             "BammLNG",
             "swagkoon66",
-            "snnnyyunns"
+            "SunnyLeenawat"
           ],
           "formation": "student"
         },
@@ -44,6 +44,82 @@
             "BuildDBob",
             "ppngskrn",
             "SupanutKlayhan"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-5",
+          "id": 20322046,
+          "name": "691_ITCS258_Group12",
+          "members": [
+            "witthayut",
+            "gmaaaaa",
+            "Piesotired"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-6",
+          "id": 20407049,
+          "name": "691_ITCS258_Group10",
+          "members": [
+            "Usuanleen"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-7",
+          "id": 20425388,
+          "name": "691_ITCS258_Group04",
+          "members": [
+            "takaboutfruit",
+            "jinwaratt",
+            "RawiWachi"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-8",
+          "id": 20425414,
+          "name": "691_ITCS258_Group16",
+          "members": [
+            "voodiepipo"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-9",
+          "id": 20429147,
+          "name": "691_ITCS258_Group19",
+          "members": [
+            "Kristranan",
+            "hancygee"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-10",
+          "id": 20452729,
+          "members": [
+            "fox2dev"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-11",
+          "id": 20452745,
+          "name": "691_ITCS258_Group02",
+          "members": [
+            "phonlapojmat-debug"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-12",
+          "id": 20454515,
+          "name": "691_ITCS258_Group01",
+          "members": [
+            "dev-azairn"
           ],
           "formation": "student"
         }
