@@ -110,6 +110,7 @@
           "id": 20452745,
           "name": "691_ITCS258_Group02",
           "members": [
+            "phonakk",
             "phonlapojmat-debug"
           ],
           "formation": "student"
@@ -119,7 +120,9 @@
           "id": 20454515,
           "name": "691_ITCS258_Group01",
           "members": [
-            "dev-azairn"
+            "dev-azairn",
+            "TeeRachen",
+            "onwarawong"
           ],
           "formation": "student"
         }
