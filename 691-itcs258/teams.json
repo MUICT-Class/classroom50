@@ -83,7 +83,9 @@
           "id": 20425414,
           "name": "691_ITCS258_Group16",
           "members": [
-            "voodiepipo"
+            "voodiepipo",
+            "Chalisapat",
+            "nanatinna"
           ],
           "formation": "student"
         },
@@ -94,6 +96,17 @@
           "members": [
             "Kristranan",
             "hancygee"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-10",
+          "id": 20557789,
+          "name": "691_ITCS258_Group03",
+          "members": [
+            "BurgerMu",
+            "Thakorn179",
+            "Chavanon-bit"
           ],
           "formation": "student"
         },
@@ -116,6 +129,49 @@
             "dev-azairn",
             "TeeRachen",
             "onwarawong"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-13",
+          "id": 20586175,
+          "name": "691_ITCS258_Group20",
+          "members": [
+            "AkitoDTD",
+            "Cofblast",
+            "Yumon-lab"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-14",
+          "id": 20602886,
+          "name": "691_ITCS258_Group14",
+          "members": [
+            "boncedy",
+            "yellowman0000"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-15",
+          "id": 20708114,
+          "name": "691_ITCS258_Group11",
+          "members": [
+            "TarMadhuri",
+            "Shogun032",
+            "pamikaaue-wq"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-4086ff9d1bc573a1-16",
+          "id": 20711551,
+          "name": "691_ITCS258_Group13",
+          "members": [
+            "sorsama",
+            "Siraphat2549",
+            "phuvasith"
           ],
           "formation": "student"
         }
